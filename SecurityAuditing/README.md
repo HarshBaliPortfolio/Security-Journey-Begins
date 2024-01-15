@@ -3,10 +3,10 @@ In an organisation, conducting audits ensures that important security checks are
 
 
 ## These are the tasks I performed:
-First, I reviewed, Using the Botium Scope, Goals & objectives and Control categories documents respectively. 
-Then I completed the Compliance Checklist document to determine the regulations that the organisation must comply with, in-order to operate legally.
-After that, I completed the Control Assessment document to suggest controls that the organisation will need to improve the security posture and comply with laws. 
-Then, I created the Botium Memorandum document to communicate my findings and recommendations from the audit to all the stakeholders.
+1. First, I reviewed, Using the (Botium Scope, Goals & objectives)[/Resources/BotiumScope.docx.pdf] and (Control categories)[/Resources/ControlCategories.docx.pdf] documents respectively. 
+2. Then I completed the (Compliance Checklist)[ComplianceChecklist.docx.pdf] document to determine the regulations that the organisation must comply with, in-order to operate legally.
+3. After that, I completed the (Control Assessment)[ControlsAssessment.docx.pdf] document to suggest controls that the organisation will need to improve the security posture and comply with laws. 
+4. Then, I created the (Botium Memorandum)[BotiumAuditMemmorandum.docx.pdf] document to communicate my findings and recommendations from the audit to all the stakeholders.
 
 
 ## Case study:
