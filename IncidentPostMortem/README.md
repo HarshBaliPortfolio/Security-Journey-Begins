@@ -5,7 +5,7 @@ The NIST CSF and its six core functions provide a framework of planning proactiv
 
 ## This is what I have performed:
  - In this scenario, I conduct a post mortem of a recent Cyber security incident that took place within my organisation using NIST CSF, so that the network security of my organisation can be improved.
- - I document this inside the [IncidentReportAnalysis](/IncidentReportAnalysis.pdf)
+ - I document this inside the [IncidentReportAnalysis](Security-Journey-Begins\IncidentPostMortem\IncidentReportAnalysis.pdf)
 
 
 ## Case Study:
